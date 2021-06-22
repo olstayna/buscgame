@@ -1,6 +1,4 @@
-
 ![buscgame2](https://user-images.githubusercontent.com/67444028/122985370-7a82ed80-d374-11eb-8f83-46f99fc09403.jpg)
-
 
 # Buscgame
 Trabalho de Conclusão de Curso do Técnico em <b>Informática para Internet</b> - <a href="http://www.etelg.com.br/">ETEC Lauro Gomes</a>.
@@ -39,6 +37,9 @@ Para o desenvolvimento do projeto, utilizamos:
 - [x] WampServer 
 - [x] Bootstrap
 
+![home](https://user-images.githubusercontent.com/67444028/122982680-891bd580-d371-11eb-9255-ac41ea07803c.gif)
+
+![telas](https://user-images.githubusercontent.com/67444028/122987568-1f062f00-d377-11eb-9bd4-76ee93406f6b.gif)
 
 
 
