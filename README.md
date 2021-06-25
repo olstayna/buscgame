@@ -13,7 +13,7 @@ Trabalho de Conclusão de Curso do Técnico em <b>Informática para Internet</b>
 </ul>
 
 ## Sobre
-### Site buscador e comparador de preços para games
+### Site buscador e comparador de preços para games (simulação de Marketplace & Web Service)
 Com o crescimento e expansão na área <i>Gamer</i>, cresce também, a procura por seus produtos. Cada vez mais, seus consumidores adquirem um olhar autocrítico em relação aos preços. Nosso intuito, é inserir no mercado, um site buscador e comparador de preços para vídeo games. Unindo praticidade, bons produtos e preços, bem como, fazer com que nossos clientes se sintam seguros em suas escolhas com máxima satisfação, de tal forma, retornando para utilizar nossos serviços e possivelmente recomendando para outras pessoas.
 
 ## Objetivos
